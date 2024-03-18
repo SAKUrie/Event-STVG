@@ -1,0 +1,15 @@
+mega.py
+mobile-sam @ git+https://github.com/ChaoningZhang/MobileSAM.git
+numpy==1.23.1
+opencv-python>=4.1.1
+pandas==1.4.3
+Pillow>=7.1.2
+scikit-image==0.19.3
+timm==0.9.12
+ultralytics~=8.1.18
+torchvision~=0.17.1
+torch~=2.2.1
+tqdm~=4.66.2
+scenedetect~=0.6.3
+pathlib~=1.0.1
+scipy~=1.10.1
